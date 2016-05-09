@@ -1,0 +1,3 @@
+[submodule "sources/libft"]
+	path = sources/libft
+	url = http://github.com/JulienBalestra/libft.git
