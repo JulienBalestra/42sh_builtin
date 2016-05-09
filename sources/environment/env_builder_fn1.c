@@ -1,3 +1,4 @@
+#include "env_builder.h"
 
 /*
  * Inside a string, get the number of characters
