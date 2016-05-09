@@ -59,7 +59,7 @@ t_env		*build_env_pwd(t_env *env)
 /*
  * Create a link from an string like PATH=/bin
  * key == PATH / value == /bin
- * Append a the end of the list, return the current link
+ * Append at the end of the list, return the current link
  */
 t_env		*create_env_link(t_env *env, char *environ_entry)
 {
