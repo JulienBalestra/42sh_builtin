@@ -1,6 +1,8 @@
 #ifndef INC_42SH_BUILTIN_ENV_CLEANER_H
 #define INC_42SH_BUILTIN_ENV_CLEANER_H
 
+#include "env_builder.h"
+
 /*
  * env_cleaner.c
  */
